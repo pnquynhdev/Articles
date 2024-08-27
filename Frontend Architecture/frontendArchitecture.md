@@ -1,0 +1,1 @@
+- [Frontend Architecture and How to Improve its Design](https://www.simform.com/blog/frontend-architecture/)
